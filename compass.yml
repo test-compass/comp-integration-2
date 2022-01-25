@@ -1,0 +1,14 @@
+name: comp-integration-2
+id: 'ari:cloud:compass:16b43ed4-8892-4f08-995a-b2dae1b4e3ef:component/c040da99-1c3a-4255-88aa-fe80664d02fa/3b498145-648c-430b-950e-8b7dc8808d3b'
+description: null
+ownerId: null
+fields:
+  tier: 4
+links:
+  - name: Source Code
+    type: REPOSITORY
+    url: 'https://github.com/test-compass/comp-integration-2'
+relationships: {}
+
+# Learn more about formatting compass.yml:
+# https://go.atlassian.com/compass-yml-format
